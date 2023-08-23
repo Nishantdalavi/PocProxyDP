@@ -1,0 +1,15 @@
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\bin\Debug\net6.0\ProxyDC.exe
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\bin\Debug\net6.0\ProxyDC.deps.json
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\bin\Debug\net6.0\ProxyDC.runtimeconfig.json
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\bin\Debug\net6.0\ProxyDC.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\bin\Debug\net6.0\ProxyDC.pdb
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.csproj.AssemblyReference.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.AssemblyInfoInputs.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.AssemblyInfo.cs
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.csproj.CoreCompileInputs.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\refint\ProxyDC.dll
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.pdb
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ProxyDC.genruntimeconfig.cache
+C:\Users\pitesh\MonoDotNet03\MonoDotNet03\Aug-20\ProxyDC\obj\Debug\net6.0\ref\ProxyDC.dll
